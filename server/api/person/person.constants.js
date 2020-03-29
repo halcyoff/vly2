@@ -28,7 +28,10 @@ const PersonFields = {
   EDUCATION: 'education',
   JOB: 'job',
   SENDEMAILNOTIFICATIONS: 'sendEmailNotifications',
-  PLACEOFWORK: 'placeOfWork'
+  PLACEOFWORK: 'placeOfWork',
+  DOB: 'dob',
+  ADDRESS: 'address',
+  VERIFIED: 'verified'
 }
 
 module.exports = {
